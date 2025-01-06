@@ -39,7 +39,7 @@ p {
 
 body {
     background-color: #000;
-    background-image: url(../Ibrahim_Memon/images/bgpattern.png);
+    background-image: url(/images/bgpattern.png);
     /* background-size: initial; */
     background-repeat: no-repeat;
     display: flex;

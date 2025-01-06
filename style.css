@@ -40,7 +40,7 @@ p {
 body {
     background-color: #000;
     background-image: url(/images/bgpattern.png);
-    /* background-size: initial; */
+    background-size: initial;
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;

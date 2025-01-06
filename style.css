@@ -44,7 +44,7 @@ body {
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
-    /* width: 1440px; */
+    width: 1440px;
     /* height: 1964.98px; */
     align-items: center;
 
